@@ -3,3 +3,4 @@ if edad >= 18:
     print("Si puede votar")
 else:
     print("No puede votar")
+    #verifica la edad 
