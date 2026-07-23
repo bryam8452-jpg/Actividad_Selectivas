@@ -12,4 +12,4 @@ match consulta:
          info = "Pelicula de superheroes del MCU"
     case _:
      info = "No se encontro informacion"    
-print("Informacion: ", info)     
+print("Informacion: ", info)     #Brinda informacion del artista/banda, pelicula o serie de su eleccion
