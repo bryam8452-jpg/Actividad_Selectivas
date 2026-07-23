@@ -7,3 +7,4 @@ if(parcial < 0 or parcial > 100) or (proyecto < 0 or proyecto> 100) or (examen <
 else:
     calificacion_final = (parcial * 0.4) + (proyecto * 0.3) + (examen *0.3)
     print("Calificcion final: ", calificacion_final)
+    #calcular nota finall
