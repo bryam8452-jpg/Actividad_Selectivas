@@ -12,4 +12,4 @@ match opcion:
         resultado = None
         print("Opcion invalida")
 if resultado is not None:
-    print("Convertido: ", resultado, unidad)
+    print("Convertido: ", resultado, unidad)#convierte grados celcius
