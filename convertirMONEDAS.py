@@ -36,4 +36,4 @@ match opcion:
             print("Opcion no valida: ")
             resultado = None
 if resultado is not None:
-    print("Convertido: ", resultado, moneda)        
+    print("Convertido: ", resultado, moneda)        #convierte pesos Mexicanos a otros 10 tipos de monedas
