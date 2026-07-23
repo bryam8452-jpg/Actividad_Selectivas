@@ -10,4 +10,4 @@ match mes:
         estacion = "otoño"     
     case _: 
         estacion = "Mes invalido"
-print("Estacion: ", estacion)
+print("Estacion: ", estacion)#verifica la estacion del año
