@@ -9,4 +9,4 @@ else:
     descuento = 0.25
 precio_final = precio - (precio * descuento) 
 print("Precio con descuento: ", precio_final) 
-                                  
+                                  #calcula el descuento
